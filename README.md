@@ -1,6 +1,6 @@
 # Starter Web Repo
 
-This repository is for showing how Git and GitHub work with different commands. Adding a line for rebasing example.
+This repository is for showing how Git and GitHub work with different commands. Adding a line for rebasing example, then more changes from myfeature branch too.
 
 ## Introduction
 This repo is used to learn GIT commands.
