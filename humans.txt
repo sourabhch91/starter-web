@@ -3,11 +3,11 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Sourabh Kumar Choudhary -- Developer -- olacabs
 
 # THANKS
 
-    <name>
+   To All Students
 
 # TECHNOLOGY COLOPHON
 
